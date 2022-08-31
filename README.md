@@ -2,6 +2,9 @@
 
 This powerful CRM was developed using Laravel, Vuejs and Laravel API.
 
+Nodejs version
+12.0.0
+
 ### Features
 
 + SPA
